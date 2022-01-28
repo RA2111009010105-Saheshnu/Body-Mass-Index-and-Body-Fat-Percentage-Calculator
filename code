@@ -1,3 +1,5 @@
+// Mini Project Title : Body Mass Index and Body Fat Percentage Calculator //
+// Done By: Batch-15: RA2111009010105-Saheshnu Sai Balaji and RA2111009010104-Vasantha Narayan //
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
